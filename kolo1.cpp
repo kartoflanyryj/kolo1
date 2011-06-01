@@ -1,4 +1,4 @@
-// £ukasz Kowalczyk, ZSZIAD, 101401
+// Imie Nazwisko, grupa, index
 
 #include <iostream>
 using namespace std;
