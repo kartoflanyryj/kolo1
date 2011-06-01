@@ -1,4 +1,4 @@
-// £ukasz Kowalczyk, ZSZIAD, 101401
+// £ukasz Kowalczyk; ZSZIAD; 101401
 
 #include <iostream>
 using namespace std;
